@@ -1,0 +1,38 @@
+*{
+margin: 0;
+padding:0;
+font-family: centuary Gothic;
+font-size: xx-large;
+}
+u1{
+float:right;
+list-style-type: none;
+margin-top: 25px;
+}
+u1 li{
+display: inline-block;
+}
+u1 li a{
+text-decoration: none;
+color: #000000;
+padding: 20px 20px;
+border: 3px solid #CD5C5C ;
+transition: 0.6s ease;
+}
+u1 li a:hover{
+background-color: #FFFFFF;
+color: #000;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+}
+div.c {
+  float: right;
+  margin-top: 1px;
+  border: 3px solid #CD5C5C;
+}
+
+
